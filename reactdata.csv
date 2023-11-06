@@ -1,0 +1,8 @@
+﻿reaction,name,f_factor,a_energy
+1,2C + O2 = 2CO,1.00E-07,17000
+2,2CO + O2 = 2CO2,1.00E-07,17000
+3,3Fe2O3 + CO = 2Fe3O4 + CO2,1.00E-07,20000
+4,Fe3O4 + CO = FeO + CO2,1.00E-07,20000
+5,FeO + CO = Fe + CO2,1.00E-07,20000
+6,CaCO3 = CaO + CO2,1.00E-07,20000
+7,CaO + SiO2 = CaSiO3,1.00E-07,20000

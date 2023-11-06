@@ -1,0 +1,15 @@
+﻿Element,Name,Density,Mmass,stdHForm,Cpn
+C,carbon,770,0.01201,0,20.8
+O2,oxygen,6.5,0.032,0,36.5
+CO,carbon_monox,1.14,0.02801,-110500,35.2
+CO2,carbon_diox,1.98,0.04401,-393500,58.4
+Fe2O3,hematite,5300,0.15969,-824200,143.8
+Fe3O4,magnetite,5170,0.23153,-1118400,200.8
+FeO,iron_ox,5745,0.07184,-272000,63.4
+Fe,iron,7874,0.05585,0,45
+N2,nitrogen,0.4,0.014,0,35
+CaCO3,calc_carb,2710,0.10009,-1206900,50
+CaO,calc_ox,3340,0.05608,-635090,50
+SiO2,sil_ox,2650,0.06008,-910860,67
+CaSiO3,cal_silicate,2930,0.11616,-1630000,50
+Air,air,1,0.02896,0,30
